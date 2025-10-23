@@ -95,7 +95,7 @@ The core of the system is built around specialized agents that work together thr
 This is what the project tree looks like:
 
 ```bash
-medscape-take-home
+agentic-workflow-challenge
 ├── .env
 ├── .gitignore
 ├── README.md
