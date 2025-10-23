@@ -1,6 +1,6 @@
-# Medscape Take-Home Assignment: Agentic AI Workflow Challenge
+# Agentic AI Workflow Challenge
 
-A Python package submitted as part of my interview process with Medscape.
+A Python package implementing an agentic AI workflow.
 
 ## Installation and Usage
 
@@ -8,13 +8,13 @@ First, you'll want to make sure you have a virtual environment set up and have a
 
 Using built-in `venv` module:
 ```bash
-cd medscape-take-home           # first, make sure you're in the root directory
+cd [root dir]                   # first, make sure you're in the root directory
 python3 -m venv venv            # create venv
 source venv/bin/activate        # activate venv
 pip install -r requirements.txt # install dependencies
 ```
 
-Then, you'll want to add your own Google API key to the `.env` file. If you do not have one, please don't hesitate to reach out and I can figure out a way for you to use mine.
+Then, you'll want to add your own Google API key to the `.env` file.
 
 Once you have the virtual environment set up, dependencies installed, and API key added to `.env`, you may run the project:
 
